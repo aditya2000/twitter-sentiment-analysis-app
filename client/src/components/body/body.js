@@ -27,7 +27,6 @@ class Body extends Component {
           loading:false,
           data: data,
         })
-        console.log(data);
     })
   }
   render() {
