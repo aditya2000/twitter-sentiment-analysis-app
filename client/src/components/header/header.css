@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Macondo');
+
+
+.header {
+  font-family: 'Macondo', cursive;
+  font-size: 2em;
+  color: #3b3b37;
+  background-color: rgb(96, 211, 81);
+  padding: .15em;
+  margin-bottom: 2em;
+  box-shadow: 1px 2px 2px 1px rgb(156, 154, 154);
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+.body {
+    font-family: 'Muli', sans-serif;
+}
+
+
+.body-input {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.5em;
+    width: 30em;
+    border: none;
+    border-radius: 2px 0px 0px 2px;
+    padding: .5em;
+    box-shadow: 1px 2px 2px 1px rgb(156, 154, 154);
+    outline: none;
+    color:#3b3b37;
+}
+
+.input-button {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.5em;
+    padding: .5em;
+    border: none;
+    border-radius: 0px 2px 2px 0px;
+    box-shadow: 1px 2px 2px 1px rgb(156, 154, 154);
+    color: white;
+    background-color: #3b3b37;
+    outline: none;
+}
+
+.tweet-analysis {
+    margin: 1em;
+    border-radius: 2px;
+    box-shadow: 1px 2px 2px 1px rgb(156, 154, 154);
+    padding: 2em;
+    padding-top: 0em;
+    border-top: 3em solid rgb(96, 211, 81);
+    text-align: left;
+}
